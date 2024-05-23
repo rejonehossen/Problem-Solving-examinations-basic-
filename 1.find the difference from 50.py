@@ -5,7 +5,7 @@ if a<=0:
     print(f"Absulate difference between {a} and 50= ",b)
     
 else:
-    b=a-50
+    b=50-a
     print(f"Absulate difference between {a} and 50= ",b)
     if a>50:
         
